@@ -185,7 +185,7 @@ A review of the dendrogram concluded that 6 clusters will be used in the further
 
 <div align="center">
   
-| 1 klasteris  | 2 klasteris        | 3 klasteris          | 4 klasteris           | 5 klasteris            | 6 klasteris | 
+| Cluster 1  | Cluster 2        | Cluster 3          | Cluster 4          | Cluster 5           | Cluster 6 | 
 |--------------|--------------------|----------------------|-----------------------|------------------------|-------------|
 | <sub>Armenia</sub>     | <sub>Australia</sub>         | <sub>Azerbaijan</sub>        | <sub>Bahrain</sub>             | <sub>Bangladesh</sub>            | <sub>India</sub>      | 
 | <sub>Austria</sub>     | <sub>Belgium</sub>            | <sub>Belize</sub>              | <sub>Brunei Darussalam</sub> | <sub>Burkina Faso</sub>          |             | 
@@ -235,7 +235,7 @@ A _k_-means clustering is also performed. In this non-hierarchical cluster analy
 
 <div align="center">
   
-| 1 klasteris  | 2 klasteris        | 3 klasteris          | 4 klasteris           | 5 klasteris            | 6 klasteris | 
+| Cluster 1  | Cluster 2        | Cluster 3          | Cluster 4           | Cluster 5            | Cluster 6 | 
 |--------------|--------------------|----------------------|-----------------------|------------------------|-------------|
 | <sub>Australia</sub> | <sub>Armenia</sub> | <sub>Bulgaria</sub> | <sub>Burkina Faso</sub> | <sub>Bahrain</sub> | <sub>India</sub> |
 | <sub>Austria</sub> | <sub>Azerbaijan</sub> | <sub>Cuba</sub> | <sub>Burundi</sub> | <sub>Brunei Darussalam</sub> | |

@@ -9,7 +9,7 @@
 
 **Results:** Through the application of statistical methods, distinct clusters of countries were identified based on economic and social factors, and the geographic position of countries within each cluster played a role in their similarities and differences. Further analysis revealed outliers, including Chad and India, and hypotheses were tested to investigate gender differences in suicide rates and life expectancy.
 
-**Code:** [See full R code for this project](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/Socio-Economic%20Analysis%20of%20Countries%20Worldwide/code.R)
+**Code:** [See full R code for this project]([https://github.com/gretapoc/Data-analyst-portfolio/blob/main/Socio-Economic%20Analysis%20of%20Countries%20Worldwide/code.R](https://github.com/gretapoc/Socio-Economic-Analysis-of-Countries-Worldwide/blob/main/code.R))
 
 **Data:** [Download the dataset](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/Socio-Economic%20Analysis%20of%20Countries%20Worldwide/Data.xlsx)
 

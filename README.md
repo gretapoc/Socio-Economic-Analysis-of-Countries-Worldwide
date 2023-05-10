@@ -11,7 +11,7 @@
 
 **Code:** [See full R code for this project]([https://github.com/gretapoc/Data-analyst-portfolio/blob/main/Socio-Economic%20Analysis%20of%20Countries%20Worldwide/code.R](https://github.com/gretapoc/Socio-Economic-Analysis-of-Countries-Worldwide/blob/main/code.R))
 
-**Data:** [Download the dataset](https://github.com/gretapoc/Data-analyst-portfolio/blob/main/Socio-Economic%20Analysis%20of%20Countries%20Worldwide/Data.xlsx)
+**Data:** [Download the dataset]([https://github.com/gretapoc/Data-analyst-portfolio/blob/main/Socio-Economic%20Analysis%20of%20Countries%20Worldwide/Data.xlsx](https://github.com/gretapoc/Socio-Economic-Analysis-of-Countries-Worldwide/blob/main/Data.xlsx))
 
 **Skills:** Data analysis, data visualization, data cleaning and organization, hierarchical cluster analysis, non-hierarchical cluster analysis, principal component analysis, hypothesis testing.
 
